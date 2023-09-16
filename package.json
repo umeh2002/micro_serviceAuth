@@ -28,7 +28,7 @@
   "scripts": {
     "build":"tsc",
     "dev": "ts-node-dev index.ts",
-    "start":"node .scr/disit"
+    "start":"node .src/disit"
   },
   "keywords": [],
   "author": "",
